@@ -20,7 +20,7 @@ A no-nonsense Python backup application built with Tkinter. This tool lets you s
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/codebytomas/backup-app.git
+   git clone https://github.com/CodeByTomas/backup-app.git
 
 ## Contributing 
 Contributions are welcome if you’re serious about improving this tool. Fork the repo, make your changes following traditional, clean coding practices, and submit a pull request. Keep it straightforward and well-documented.
